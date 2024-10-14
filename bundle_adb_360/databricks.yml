@@ -7,7 +7,7 @@ include:
   - resources/*.yml
 
 run_as:
-  service_principal_name: 1f75dd16-f271-4248-ae35-993e70abe5a8
+  service_principal_name: 831b2937-086c-46f2-990f-3f36407150bf
 
 
 variables:
